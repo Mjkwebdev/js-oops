@@ -1,0 +1,6 @@
+ oops
+ programming pyradigm 
+ centered with objects than Functions
+ Languages :Java Ruby Js Python c#
+Many frameworks are designed to ccreate oops
+

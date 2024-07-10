@@ -1,0 +1,8 @@
+Later on this course 
+
+2- Objects
+3- Prototypes
+4- Prototypical inheritance
+5- ESMA class
+6- Outline
+

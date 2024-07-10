@@ -1,0 +1,25 @@
+// 4 pillars of OOPs
+Encapsulation 
+Abstraction 
+inheritance 
+Polymorphism
+
+
+A group of related variable and use object as property and methods
+Think of car that car has some property and methods 
+Real programming example : Local storage 
+
+A group related variabe and methods that operate on them is called encapsulation  
+Encapsulation:  packing of data and functions into one component
+reduce complexity + increase reusbility
+
+Abstration:Hide some properties and  make interface simplier and that reduce the impact of change 
+Hide details and reduce complexity+ Isolate impact of change
+
+Inheritance: mechanism allows you to reduce the reductant ConvolverNode
+Eliminate reductant code
+
+Polymorphism: techniques that has many forms 
+// Refuse to use switch/else nasty code
+
+
