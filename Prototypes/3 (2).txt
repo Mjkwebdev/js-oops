@@ -1,0 +1,17 @@
+Prototypes and prototypical inheritance
+
+Prototype means parent 
+every object has a Prototype except the one object(proto)
+All objects are related to objectBase
+
+Prototypes are regular objects in JavaScript:
+In JavaScript, every object has a prototype, which is regular object.
+The prototype is used as a template from which to create new objects.
+
+Prototypical inheritance is a direct link to an object's root:
+
+Prototypical inheritance is a mechanism in JavaScript where objects inherit directly from other objects.
+When you try to access a property or method on an object, JavaScript first looks for it on the object itself, 
+and if it's not found, it looks on the object's prototype, and so on up the prototype chain until it finds
+the property or method, or reaches the end of the chain.
+

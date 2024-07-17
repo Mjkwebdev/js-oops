@@ -1,0 +1,8 @@
+Multi-Level-Inheritance
+
+An object "c" which is derived from another object"b" and
+"b" is derived from ObjectBase
+array derived from myarray and myarray has an objectbase of proto 
+
+Multilevel inheritance refers to a class inheriting from another class, which in turn inherits from a base class
+A chain of inheritance

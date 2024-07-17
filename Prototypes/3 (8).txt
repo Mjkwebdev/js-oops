@@ -1,0 +1,6 @@
+Avoid Extending built in objects
+
+With extended built-in functions, you're relying on the
+ implementation provided by the standard library, 
+ which may not always fit your specific requirements.
+

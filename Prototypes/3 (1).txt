@@ -1,0 +1,12 @@
+Inheritance
+a core concept where new class is derived from existing class 
+New class inherits the property of existing one allowing to reuse properties of parent class
+This creates a hierarical relation between classes 
+new class called child, derived 
+existing class is called parent or base
+describe relation with "IS A"
+2 types of inheritance 
+i. classical inheritance
+ii. prototypical inheritance
+
+
