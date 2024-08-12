@@ -1,0 +1,10 @@
+When to use Inheritance
+Multilevel inheritance should not be used 
+Recommended to use Composition( Mixins)
+Inheritance make complex structure
+Remember just to use one level inheritance
+Keep it simple for inheritance
+Inheritance is used for code reuse 
+
+Favor composition over inheritance 
+
